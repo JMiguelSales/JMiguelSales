@@ -1,6 +1,6 @@
 ### Salve família
 
-Sou João Miguel, estudante do ensino técnico do CP2 e amo programar.
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
